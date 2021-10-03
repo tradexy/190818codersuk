@@ -6,4 +6,4 @@ Used Circle CI ( https://circleci.com/ ) to store files into AWS storage - Amazo
 
 Using random image from unsplash.com size 1600x900 images of type: coding, computer
 
-In Summer of 2019 
+In Summer of 2019 with Coders UK 👍
